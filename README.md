@@ -1,5 +1,5 @@
 # makemore
-I re-create Andrej Karpathy's ```makemore``` series, along with my own notes, anecdotes, additions, and changes.
+I create neural network engines in Andrej Karpathy's ```makemore``` series, along with my own notes, anecdotes, additions, and changes.
 
 Makemore is an autoregressive character-level language model, possessing a range of models (bigrams to Transformers (like GPT)). It basically predicts the next character. 
 
